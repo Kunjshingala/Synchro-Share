@@ -1,0 +1,39 @@
+name: synchro_share
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+
+  # Local Storage
+  hive: any
+  path_provider: any
+
+  # UI
+  flutter_screenutil: any
+  responsive_framework: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: any
+  change_app_package_name: any
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/
