@@ -26,7 +26,7 @@
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/synchro_share.git
+   git clone https://github.com/Kunjshingala/Synchro-Share.git
    cd synchro_share
    ```  
 
