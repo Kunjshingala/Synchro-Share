@@ -7,7 +7,7 @@ version: 1.0.0+1
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
-  flutter: 3.32.5
+  flutter: 3.35.4
 
 dependencies:
   flutter:
@@ -16,10 +16,21 @@ dependencies:
   flutter_localizations:
     sdk: flutter
 
+  # State Management
+  bloc: any
+  equatable: any
+
+  # Dependency Injection
+  get_it: any
+  injectable: any
 
   # Local Storage
   hive: any
+  hive_flutter: any
   path_provider: any
+
+  # Navigation
+  go_router: any
 
   # UI
   flutter_screenutil: any
@@ -30,7 +41,12 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: any
+
+  # To change package name via command
   change_app_package_name: any
+
+  #
+  hive_generator: any
 
 flutter:
   generate: true

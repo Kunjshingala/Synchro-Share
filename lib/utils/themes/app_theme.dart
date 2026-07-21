@@ -3,6 +3,9 @@ import 'package:flutter/material.dart';
 import 'theme_extension.dart';
 
 /// https://medium.com/@alexandersnotes/flutter-custom-theme-with-themeextension-792034106abc
+///
+/// Light : https://coolors.co/1f1c2c-928dab-ff6b6b-f8f8f8-e6e6eb
+/// Dark : https://coolors.co/d3d1e8-7a7693-ff7b7b-111015-1a1821
 
 extension ThemeGetter on BuildContext {
   ThemeData get theme => Theme.of(this);

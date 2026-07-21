@@ -123,7 +123,29 @@ lib/
 │
 ├── main.dart
 └── app.dart
-```  
+```
 
-https://pro.codewithandrea.com/get-started-flutter/intro/13-platform-channels-ffi
-https://www.kodeco.com/21512310-calling-native-libraries-in-flutter-with-dart-ffi
+---
+
+### Reference!
+[Work with native library](https://www.kodeco.com/21512310-calling-native-libraries-in-flutter-with-dart-ffi)
+
+[Dart FFI](https://pro.codewithandrea.com/get-started-flutter/intro/13-platform-channels-ffi)
+
+[Platform Wise Code Handle](https://medium.com/miles-megabytes/one-codebase-every-screen-how-scapia-built-a-multi-platform-flutter-app-6bf75a3cbbde)
+
+[Routing](https://medium.com/@tiger.chirag/advanced-flutter-routing-deep-links-nested-navigators-20ab140b6ecd) 
+
+[Animation](https://medium.com/@tiger.chirag/43abbafb8a7f)
+
+[Security](https://medium.com/@swatantra109/how-to-implement-ssl-pinning-in-a-flutter-app-using-dio-a-complete-guide-16d4cb13c88a)
+
+
+[Ref. App](https://blip.net/)
+[Gov UI/UX](https://www.ux4g.gov.in/)
+[Icon](https://lucide.dev/)
+
+[Design](https://mobbin.com/discover/apps/ios/latest)
+[Reference](https://github.com/localsend/localsend)
+[Reference](https://github.com/KRTirtho/spotube/tree/master)
+[Reference](https://github.com/AppFlowy-IO/AppFlowy)
